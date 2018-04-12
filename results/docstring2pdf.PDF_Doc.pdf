@@ -1,0 +1,93 @@
+%PDF-1.2
+%вгПУ
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources
+<<
+/Font
+<<
+/FClassic
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Roman
+>>
+/FBold
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Bold
+>>
+/FItalic
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Italic
+>>
+>>
+>>
+/MediaBox [0 0 600 220]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 401
+>>
+stream
+  BT
+  /FItalic 12 Tf
+40 175 Td
+(Docstrings to PDF_Doc class of docstring2pdf module) Tj
+/FBold 15 Tf
+0 -25 Td
+(class PDF_Doc) Tj
+/FClassic 12 Tf
+40 -25 Td
+(Get info and docstrings from python-file) Tj
+/FBold 12 Tf
+0 -25 Td
+(METHODS:) Tj
+/FBold 12 Tf
+0 -25 Td
+(__init__\(self\)) Tj
+/FBold 12 Tf
+0 -25 Td
+(get_pdf_doc\(self, filename\)) Tj
+/FClassic 12 Tf
+40 -25 Td
+(Get pdf-docstrings to Object) Tj
+
+  ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f
+0000000015 00000 n
+0000000064 00000 n
+0000000121 00000 n
+0000000434 00000 n
+trailer
+<<
+/Root 1 0 R
+/Size 5
+>>
+startxref
+889
+%%EOF
